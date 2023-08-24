@@ -4,7 +4,7 @@
 
 ### My Top Used Languages:
 
-[![Top Langs](https://github-readme-stats-theta-six-31.vercel.app/api/top-langs/?username=KleinReveche&title_color=2f80ed&icon_color=4c71f2&text_color=fff&bg_color=001&exclude_repo=github-readme-stats&langs_count=10)](https://github.com/KleinReveche/)
+[![Top Langs](https://github-readme-stats-theta-six-31.vercel.app/api/top-langs/?username=KleinReveche&title_color=2f80ed&icon_color=4c71f2&text_color=fff&bg_color=001&exclude_repo=github-readme-stats&langs_count=20)](https://github.com/KleinReveche/)
 
 <!--
 ### This is what I've been currently working on at the moment:
