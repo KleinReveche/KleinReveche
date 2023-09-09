@@ -1,10 +1,12 @@
 ### Hi there 👋
 
-![KleinReveche's github stats](https://github-readme-stats-sage-six.vercel.app/api?username=KleinReveche&show_icons=true&title_color=2f80ed&icon_color=4c71f2&text_color=fff&bg_color=001&count_private=true&hide=prs,issues)
+[![KleinReveche's github stats](https://github-readme-stats-sage-six.vercel.app/api?username=KleinReveche&show_icons=true&title_color=2f80ed&icon_color=4c71f2&text_color=fff&bg_color=001&count_private=true&hide=prs,issues)](https://github-readme-stats-sage-six.vercel.app/api?username=KleinReveche&show_icons=true&title_color=2f80ed&icon_color=4c71f2&text_color=fff&bg_color=001&count_private=true&hide=prs,issues)
+
+[![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=KleinReveche&theme=dark&hide_border=false)](https://github-readme-streak-stats.herokuapp.com/?user=KleinReveche&theme=dark&hide_border=false)
 
 ### My Top Used Languages:
 
-![Top Langs](https://github-readme-stats-sage-six.vercel.app/api/top-langs/?username=KleinReveche&title_color=2f80ed&icon_color=4c71f2&text_color=fff&bg_color=001&exclude_repo=github-readme-stats&langs_count=20)
+[![Top Langs](https://github-readme-stats-sage-six.vercel.app/api/top-langs/?username=KleinReveche&title_color=2f80ed&icon_color=4c71f2&text_color=fff&bg_color=001&exclude_repo=github-readme-stats&langs_count=20)](https://github-readme-stats-sage-six.vercel.app/api/top-langs/?username=KleinReveche&title_color=2f80ed&icon_color=4c71f2&text_color=fff&bg_color=001&exclude_repo=github-readme-stats&langs_count=20)
 
 <!--
 ### This is what I've been currently working on at the moment:
