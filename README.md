@@ -1,4 +1,4 @@
-# Hi there 👋 Welcome to my Playground!
+# Hi there, Welcome to my Playground! 👋 
 Here lies my journey through programming, full of learning and experimenting, and many more! Feel free to roam and wander, looking at my primitive code as I learn programming languages.
 
 ## 💻 Programming Languages I know and am currently learning:
