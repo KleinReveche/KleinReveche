@@ -13,7 +13,7 @@ Here lies my journey through programming, full of learning and experimenting, an
 
 ## 🔭 This is what I've been currently working on at the moment:
 
-[![ReadMe Card](https://github-readme-stats-sage-six.vercel.app/api/pin/?username=KleinReveche&repo=AdventOfCode&show_owner=true&theme=highcontrast)](https://github.com/KleinReveche/AdventOfCode)
+[![ReadMe Card](https://github-readme-stats-sage-six.vercel.app/api/pin/?username=KleinReveche&repo=MazeRunner&show_owner=true&theme=highcontrast)](https://github.com/KleinReveche/MazeRunner)
 
 ## 🌱 This is a project that I released:
 [![ReadMe Card](https://github-readme-stats-sage-six.vercel.app/api/pin/?username=KleinReveche&repo=TicTacToe&show_owner=true&theme=highcontrast)](https://github.com/KleinReveche/TicTacToe)
