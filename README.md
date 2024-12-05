@@ -7,7 +7,7 @@ Here lies my journey through programming, full of learning and experimenting, an
 ## 📊 GitHub Stats:
 [![KleinReveche's github stats](https://github-readme-stats-4hgh.vercel.app/api?username=KleinReveche&show_icons=true&theme=highcontrast&count_private=true&hide=prs,issues)](https://github-readme-stats-4hgh.vercel.app/api?username=KleinReveche&theme=highcontrast&count_private=true&hide=prs,issues)
 
-[![Streak Stats](https://github-readme-stats-4hgh.vercel.app/?user=KleinReveche&theme=highcontrast&hide_border=false)](https://github-readme-stats-4hgh.vercel.app/?user=KleinReveche&theme=highcontrast&hide_border=false)
+[![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=KleinReveche&theme=highcontrast&hide_border=false)](https://github-readme-streak-stats.herokuapp.com/?user=KleinReveche&theme=highcontrast&hide_border=false)
 
 [![Top Langs](https://github-readme-stats-4hgh.vercel.app/api/top-langs/?username=KleinReveche&theme=highcontrast&exclude_repo=github-readme-stats&langs_count=20)](https://github-readme-stats-4hgh.vercel.app/api/top-langs/?username=KleinReveche&theme=highcontrast&exclude_repo=github-readme-stats&langs_count=20)
 
